@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{6930572F-9FB2-FD97-A3DA-B3153A59E4F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{CE60CF30-E0AA-5645-4BAE-56F7F5FE82EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.Haptics.Samples", "Oculus.Haptics.Samples.csproj", "{9F4C1002-1AC4-FB60-8986-431667380830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6930572F-9FB2-FD97-A3DA-B3153A59E4F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6930572F-9FB2-FD97-A3DA-B3153A59E4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6930572F-9FB2-FD97-A3DA-B3153A59E4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6930572F-9FB2-FD97-A3DA-B3153A59E4F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE60CF30-E0AA-5645-4BAE-56F7F5FE82EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE60CF30-E0AA-5645-4BAE-56F7F5FE82EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE60CF30-E0AA-5645-4BAE-56F7F5FE82EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE60CF30-E0AA-5645-4BAE-56F7F5FE82EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4C1002-1AC4-FB60-8986-431667380830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4C1002-1AC4-FB60-8986-431667380830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4C1002-1AC4-FB60-8986-431667380830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4C1002-1AC4-FB60-8986-431667380830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
