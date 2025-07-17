@@ -20,7 +20,7 @@ Watch the demo video:
 
 ## How to Run the Project in Unity
 
-This project was developed using **Unity 2022.3.6f1** and is designed for the **Meta Quest 3s** headset with **Meta Quest Touch Plus controllers**.
+This project was developed using **Unity 2022.3.62f1** and is designed for the **Meta Quest 3S** headset with **Meta Quest Touch Plus controllers**.
 
 ### Steps to Run:
 
