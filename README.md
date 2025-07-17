@@ -49,4 +49,4 @@ This project was developed using **Unity 2022.3.62f1** and is designed for the *
    - Click the **Build and Run** button.
    - When prompted, select the `FlUID.apk` location.
    - Unity will build the app and automatically deploy it to your headset.
-
+   - Press the flat Meta button on your right controller to center the menu in your view and you're ready to get started.
