@@ -38,12 +38,12 @@ This project was developed using **Unity 2022.3.62f1** and is designed for the *
    - Select **Android** and click the **Switch Platform** button.
 
 5. **Connect Your Headset**
-   - Connect your **Meta Quest 3s** via USB cable.
+   - Connect your **Meta Quest 3S** via USB cable.
    - Ensure the headset is **powered on** and **Developer Mode** is enabled.
 
 6. **Detect the Headset**
    - In Build Settings, find the **Run Device** dropdown.
-   - Click **Reset** - your headset should now appear in the list.
+   - Click **Refresh** - your headset should now appear in the list.
 
 7. **Build and Run**
    - Click the **Build and Run** button.
