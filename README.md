@@ -10,6 +10,13 @@ FlUId was designed to provide a clear, side-by-side comparison of well-designed 
 ## Features
 - Side-by-side comparison of good and bad UI implementations. Users can switch between the good and bad UI panels. Each panel demonstrates different approaches to layout, feedback, and interaction.
 - A tutoral panel showcasing the good design principles, applied in the good UI design.
+    
+Watch the demo video:
+
+<a href="https://youtu.be/z3uKXxJZkY8">
+  <img src="thumbnail.jpg" alt="Watch the demo" width="400"/>
+</a>
+
 
 ## How to Run the Project in Unity
 
