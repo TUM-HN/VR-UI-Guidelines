@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CE60CF30-E0AA-5645-4BAE-56F7F5FE82EF}</ProjectGuid>
+    <ProjectGuid>{8C40CC44-0B99-3119-6EB9-413B5879DDA0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -1541,11 +1541,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{6930572F-9FB2-FD97-A3DA-B3153A59E4F0}</Project>
+      <Project>{8E6ACCCF-9223-B0D1-8A06-096CA1F89FE0}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Haptics.Samples.csproj">
-      <Project>{9F4C1002-1AC4-FB60-8986-431667380830}</Project>
+      <Project>{9DB84928-4006-3F13-6680-B5A09607EF36}</Project>
       <Name>Oculus.Haptics.Samples</Name>
     </ProjectReference>
   </ItemGroup>
