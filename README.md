@@ -1,5 +1,5 @@
 # FlUId: VR UI Design
-FlUId is a VR application created as part of my bachelor thesis to demonstrate good and bad user interface (UI) design practices in virtual reality. 
+FlUId is a VR application created to demonstrate good and bad user interface (UI) design practices in virtual reality. 
 The project is based on design [Guidelines and Best Practices](../../wiki) and aims to provide an interactive, immersive way to experience the impact of UI design.
 
 ## Motivation
