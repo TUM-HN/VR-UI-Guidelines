@@ -13,7 +13,7 @@ FlUId was designed to provide a clear, side-by-side comparison of well-designed 
     
 Watch the demo video:
 
-<a href="https://youtu.be/z3uKXxJZkY8">
+<a href="https://youtu.be/NsY8NIObuMo">
   <img src="thumbnail.jpg" alt="Watch the demo" width="400"/>
 </a>
 
